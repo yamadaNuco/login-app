@@ -110,4 +110,20 @@ h1{
     width: 400px; /* ボタンの幅を指定 */
     height: 200px; /* ボタンの高さを指定 */
   }
-  
+  /* Signin.css */
+
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 200px; /* サイドバーの幅を設定 */
+  background-color: #f0f0f0; /* サイドバーの背景色を設定 */
+}
+
+.content {
+  flex-grow: 1; /* コンテンツがサイドバーの横幅を埋めるように設定 */
+  padding: 20px; /* コンテンツの余白を設定 */
+}
+
+/* 他のスタイルをここに追加 */
