@@ -161,6 +161,7 @@ FAX番号03
 {% enddocs %}
 {% docs column__cosme_shopping__dtb_customer__update_date__000__desc %}
 更新日時
+
 {% enddocs %}
 {% docs column__cosme_shopping__dtb_customer__del_flg__000__desc %}
 削除フラグ
