@@ -8,6 +8,25 @@
 {% docs column__common____airbyte_emitted_at__000__desc %}
  airbyteからデータが出力された日時
 {% enddocs %}
+<!-- common -->
+{% docs table__dummy_customer__000__desc %}
+ダミー個人情報データのテーブル
+{% enddocs %}
+{% docs column__common__file_created_at_jst__000__desc %}
+ファイル出力日時
+{% enddocs %}
+{% docs column__common____airbyte_emitted_at__000__desc %}
+ airbyteからデータが出力された日時
+{% enddocs %}
+<!-- common -->
+{% docs table__dummy_customer__000__desc %}
+ダミー個人情報データのテーブル
+{% enddocs %}
+{% docs column__common__file_created_at_jst__000__desc %}
+ファイル出力日時
+{% enddocs %}
+{% docs column__common____airbyte_emitted_at__000__desc %}
+ airbyteからデータが出力された日時
 
 <!-- m_product -->
 {% docs table__retail_core__m_product__000__desc %}
